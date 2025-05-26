@@ -1,6 +1,6 @@
-# React Checkers app
+# React Checkers webapp
 
-This contains everything you need, to run your Checkers app locally.
+This repo contains everything you need, to run your Checkers webapp locally.
 
 ---
 
