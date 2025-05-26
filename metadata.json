@@ -1,0 +1,6 @@
+
+{
+  "name": "React Checkers Game",
+  "description": "A classic game of Checkers built with React, TypeScript, and Tailwind CSS. Supports two local players, piece movement, jumping, kinging, and win detection."
+}
+    
