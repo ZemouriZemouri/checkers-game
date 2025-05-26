@@ -15,5 +15,5 @@ This contains everything you need, to run your Checkers app locally.
 
 ## UI
 
-![Checkers](assets/checkers.png)
+![Checkers](assets/checkers-ui.png)
 
