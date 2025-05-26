@@ -6,12 +6,16 @@ This contains everything you need, to run your Checkers app locally.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  [Node.js](https://nodejs.org/)
 
 1. Install dependencies:
-   `npm install`
+```
+npm install
+```
 2. Run the app:
-   `npm run dev`
+```
+npm run dev
+```
 
 ## UI
 
